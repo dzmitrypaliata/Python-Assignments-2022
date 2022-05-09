@@ -1,1 +1,1 @@
-# Python-Assignments-2022
+# First commit. Added simple Python script
